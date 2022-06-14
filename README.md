@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 [totoero.github.io](https://totoero.github.io/toTOEro/)
 
-Assignment 1: https://totoero.github.io/toTOEro/main/ATO_Assignment1/Develop/index.html
+Assignment 1: https://totoero.github.io/toTOEro/ATO_Assignment1/Develop/
+
