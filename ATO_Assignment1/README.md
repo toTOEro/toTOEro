@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-deployment URL: [https://github.com/toTOEro/UCSD_Assignment1](https://totoero.github.io/toTOEro/ATO_Assignment1/Develop/)
+deployment URL: https://totoero.github.io/toTOEro/ATO_Assignment1/Develop/
 
 
 Main changes:
